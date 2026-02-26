@@ -425,9 +425,9 @@ const portfolioData = {
     // SECTION: RESEARCH
     research: [
         {
-            title: "Automatic Detection of Cocaine Use Disorder Using Structural MRI",
+            title: "Entropy-Guided Classification of Cocaine Use Disorder from Structural MRI",
             author: "Rohit Kumar",
-            desc: "Published in [Journal Name]. A comprehensive study employing advanced preprocessing and machine learning to identify biomarkers in brain structure.",
+            desc: "Accepted at CML 2026 and to be published in Springer LNNS (Scopus Indexed). Proposed an entropy-guided, leakage-free CNN framework for structural MRI classification, achieving 72% subject-level accuracy (AUC 0.69) with SHAP-based interpretability.",
             pdfLink: "#" // Add actual PDF link here
         }
     ],
